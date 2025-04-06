@@ -6,7 +6,9 @@
   "scripts": {
     "build": "tsc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/node": "^22.14.0"
+  },
   "devDependencies": {
     "typescript": "^5.5.3"
   },

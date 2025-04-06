@@ -1,4 +1,4 @@
-import {readLines} from "./index";
+import {readLines} from "../index";
 
 function calibrate(doc: string[]) : number {
     const values = doc.map((line) => {
